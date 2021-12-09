@@ -6,11 +6,11 @@ variants:
    build: false
    files:
      included:
-       - architecture/**/*.adoc
-       - welcome/**/*.adoc
-       - modules/**/*.adoc
-       - whats_new/**/*.adoc
-       - installing/**/*.adoc
+       - architecture/**/*
+       - welcome/**/*
+       - modules/**/*
+       - whats_new/**/*
+       - installing/**/*
      excluded:
        - _unused_topics
        - _package
